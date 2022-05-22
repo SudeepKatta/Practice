@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.in28minutes.springboot.jdbc.h2.example.student.Student;
 import com.in28minutes.springboot.jdbc.h2.example.student.StudentJdbcRepository;
 
+//Comment
 @SpringBootApplication
 public class SpringBoot2JdbcWithH2Application implements CommandLineRunner {
 
