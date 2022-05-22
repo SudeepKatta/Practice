@@ -13,6 +13,7 @@ import com.in28minutes.springboot.jdbc.h2.example.student.StudentJdbcRepository;
 //Comment
 //Test new branch dev
 //Cherrypick test
+//Rollback
 @SpringBootApplication
 public class SpringBoot2JdbcWithH2Application implements CommandLineRunner {
 
